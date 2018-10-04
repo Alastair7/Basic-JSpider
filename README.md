@@ -1,2 +1,9 @@
-# JSpider is a basic Web-Crawler based on java
-It basically crawls through the url links to access them 
+# PSpider
+
+PSpider is web-Scrapper or a crawler using BeautifulSoup.
+
+## Requirements
+
+* BeautifulSoup
+
+## Usage 

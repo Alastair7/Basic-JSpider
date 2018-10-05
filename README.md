@@ -1,6 +1,6 @@
-# PSpider
+# WikiSpider
 
-PSpider is web-Scrapper or a crawler using BeautifulSoup.
+WikiSpider is web-Scrapper of one wikipedia page using BeautifulSoup.
 
 ## Requirements
 

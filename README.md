@@ -1,6 +1,6 @@
-# WikiSpider
+# WikiScrapper
 
-WikiSpider is web-Scrapper of one wikipedia page using BeautifulSoup.
+WikiScrapper is web-Scrapper of one wikipedia page using BeautifulSoup.
 
 ## Requirements
 

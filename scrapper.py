@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 
 data = requests.get("https://en.wikipedia.org/wiki/2018_in_anime")
 soup = BeautifulSoup(data.text, 'html.parser')
+
+#first table
 table = soup.find_all('table',{"class" : "wikitable sortable"})[0]
 # print(table)
 
